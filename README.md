@@ -1,0 +1,2 @@
+# jetpack_joke_android_app
+这是一个基于jetpack组件库的joke video 安卓app，本仓库仅提供Android前端界面代码
